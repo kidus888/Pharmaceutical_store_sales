@@ -1,0 +1,43 @@
+2024-09-18 18:23:33,474 - INFO - Datasets loaded successfully.
+2024-09-18 18:23:47,917 - INFO - Datasets merged successfully.
+2024-09-18 18:24:01,084 - INFO - Checked missing values for Train Store
+2024-09-18 18:24:01,124 - INFO - Checked missing values for Test Store
+2024-09-18 18:24:18,142 - INFO - Handled missing values by filling NaNs with 0.
+2024-09-18 18:24:27,456 - INFO - Detected outliers in column Sales
+2024-09-18 18:24:27,492 - INFO - Capped outliers in Sales column.
+2024-09-18 18:26:22,648 - INFO - Datasets loaded successfully.
+2024-09-18 18:26:24,641 - INFO - Datasets merged successfully.
+2024-09-18 18:26:27,839 - INFO - Checked missing values for Train Store
+2024-09-18 18:26:27,881 - INFO - Checked missing values for Test Store
+2024-09-18 18:26:31,439 - INFO - Handled missing values by filling NaNs with 0.
+2024-09-18 18:26:35,791 - INFO - Detected outliers in column Sales
+2024-09-18 18:26:35,847 - INFO - Capped outliers in Sales column.
+2024-09-18 18:26:40,136 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-18 18:26:41,084 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-18 18:27:40,572 - INFO - Plotted sales behavior before, during, and after holidays.
+2024-09-18 18:33:03,765 - INFO - Datasets loaded successfully.
+2024-09-18 18:33:05,374 - INFO - Datasets merged successfully.
+2024-09-18 18:33:08,288 - INFO - Checked missing values for Train Store
+2024-09-18 18:33:08,347 - INFO - Checked missing values for Test Store
+2024-09-18 18:33:10,986 - INFO - Handled missing values by filling NaNs with 0.
+2024-09-18 18:33:12,214 - INFO - Detected outliers in column Sales
+2024-09-18 18:33:12,257 - INFO - Capped outliers in Sales column.
+2024-09-18 18:33:17,974 - INFO - Analyzed and plotted seasonal purchase behaviors.
+2024-09-18 18:34:01,040 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-18 18:34:02,007 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-18 18:34:02,588 - INFO - Plotted promo effect on sales.
+2024-09-18 18:39:24,649 - INFO - Datasets loaded successfully.
+2024-09-18 18:39:26,404 - INFO - Datasets merged successfully.
+2024-09-18 18:39:29,698 - INFO - Checked missing values for Train Store
+2024-09-18 18:39:29,752 - INFO - Checked missing values for Test Store
+2024-09-18 18:39:34,516 - INFO - Handled missing values by filling NaNs with 0.
+2024-09-18 18:39:39,199 - INFO - Detected outliers in column Sales
+2024-09-18 18:39:39,234 - INFO - Capped outliers in Sales column.
+2024-09-18 18:39:44,716 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-18 18:39:45,424 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-18 18:40:36,546 - INFO - Plotted sales behavior before, during, and after holidays.
+2024-09-18 18:40:42,749 - INFO - Analyzed and plotted sales during store opening and closing times.
+2024-09-18 18:40:48,696 - INFO - Plotted sales distribution on open days.
+2024-09-18 18:40:49,758 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-18 18:40:50,388 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-18 18:41:39,113 - INFO - Analyzed and plotted customer trends during store opening times.
