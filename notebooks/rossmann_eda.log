@@ -41,3 +41,102 @@
 2024-09-18 18:40:49,758 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2024-09-18 18:40:50,388 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2024-09-18 18:41:39,113 - INFO - Analyzed and plotted customer trends during store opening times.
+2024-09-19 08:14:17,325 - INFO - Datasets loaded successfully.
+2024-09-19 08:14:23,273 - INFO - Datasets merged successfully.
+2024-09-19 08:14:25,523 - INFO - Checked missing values for Train Store
+2024-09-19 08:14:25,563 - INFO - Checked missing values for Test Store
+2024-09-19 08:14:30,478 - INFO - Handled missing values by filling NaNs with 0.
+2024-09-19 08:14:32,629 - INFO - Detected outliers in column Sales
+2024-09-19 08:14:32,664 - INFO - Capped outliers in Sales column.
+2024-09-19 08:14:45,592 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:14:45,609 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:14:45,804 - INFO - Analyzed and plotted total sales during promo vs non-promo periods.
+2024-09-19 08:14:45,873 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:14:45,886 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:14:46,038 - INFO - Analyzed and plotted average customers during promo vs non-promo periods.
+2024-09-19 08:14:46,102 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:14:46,115 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:14:46,255 - INFO - Analyzed and plotted average sales per customer during promo vs non-promo periods.
+2024-09-19 08:24:05,998 - INFO - Datasets loaded successfully.
+2024-09-19 08:24:07,004 - INFO - Datasets merged successfully.
+2024-09-19 08:24:10,454 - INFO - Checked missing values for Train Store
+2024-09-19 08:24:10,487 - INFO - Checked missing values for Test Store
+2024-09-19 08:24:14,035 - INFO - Handled missing values by filling NaNs with 0.
+2024-09-19 08:24:15,464 - INFO - Detected outliers in column Sales
+2024-09-19 08:24:15,494 - INFO - Capped outliers in Sales column.
+2024-09-19 08:24:21,437 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:24:22,258 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:25:11,460 - INFO - Plotted sales behavior before, during, and after holidays.
+2024-09-19 08:25:22,272 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:25:22,287 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:25:22,605 - INFO - Identified and plotted top 10 stores with most effective promo impact on sales.
+2024-09-19 08:25:22,626 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:25:22,638 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:25:22,935 - INFO - Identified and plotted top 10 stores with least effective promo impact on sales.
+2024-09-19 08:25:23,243 - INFO - Analyzed and plotted promo effectiveness by store type.
+2024-09-19 08:25:23,731 - INFO - Analyzed and plotted relationship between promo effectiveness and competitor distance.
+2024-09-19 08:28:20,029 - INFO - Datasets loaded successfully.
+2024-09-19 08:28:21,551 - INFO - Datasets merged successfully.
+2024-09-19 08:28:23,333 - INFO - Checked missing values for Train Store
+2024-09-19 08:28:23,370 - INFO - Checked missing values for Test Store
+2024-09-19 08:28:27,481 - INFO - Handled missing values by filling NaNs with 0.
+2024-09-19 08:28:28,336 - INFO - Detected outliers in column Sales
+2024-09-19 08:28:28,362 - INFO - Capped outliers in Sales column.
+2024-09-19 08:28:49,099 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:28:49,106 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:28:49,286 - INFO - Analyzed and plotted weekend sales for stores open all weekdays vs. other stores.
+2024-09-19 08:31:06,201 - INFO - Datasets loaded successfully.
+2024-09-19 08:31:07,456 - INFO - Datasets merged successfully.
+2024-09-19 08:31:10,601 - INFO - Checked missing values for Train Store
+2024-09-19 08:31:10,635 - INFO - Checked missing values for Test Store
+2024-09-19 08:31:13,885 - INFO - Handled missing values by filling NaNs with 0.
+2024-09-19 08:31:15,624 - INFO - Detected outliers in column Sales
+2024-09-19 08:31:15,664 - INFO - Capped outliers in Sales column.
+2024-09-19 08:31:30,419 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:31:30,428 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 08:31:30,602 - INFO - Analyzed and plotted weekend sales for stores open all weekdays vs. other stores.
+2024-09-19 08:40:29,802 - INFO - Datasets loaded successfully.
+2024-09-19 08:40:32,017 - INFO - Datasets merged successfully.
+2024-09-19 08:40:34,687 - INFO - Checked missing values for Train Store
+2024-09-19 08:40:34,740 - INFO - Checked missing values for Test Store
+2024-09-19 08:40:38,324 - INFO - Handled missing values by filling NaNs with 0.
+2024-09-19 08:40:41,396 - INFO - Detected outliers in column Sales
+2024-09-19 08:40:41,431 - INFO - Capped outliers in Sales column.
+2024-09-19 08:41:04,793 - INFO - Analyzed and plotted sales by assortment type.
+2024-09-19 08:51:28,456 - INFO - Datasets loaded successfully.
+2024-09-19 08:51:31,518 - INFO - Datasets merged successfully.
+2024-09-19 08:51:34,341 - INFO - Checked missing values for Train Store
+2024-09-19 08:51:34,448 - INFO - Checked missing values for Test Store
+2024-09-19 08:51:38,515 - INFO - Handled missing values by filling NaNs with 0.
+2024-09-19 08:51:39,122 - INFO - Detected outliers in column Sales
+2024-09-19 08:51:39,175 - INFO - Capped outliers in Sales column.
+2024-09-19 08:52:11,527 - INFO - Correlation between Competition Distance and Sales: -0.0156
+2024-09-19 08:52:17,995 - INFO - Correlation for city center stores: 0.0176
+2024-09-19 08:52:17,995 - INFO - Correlation for non-city center stores: -0.0199
+2024-09-19 09:01:01,355 - INFO - Datasets loaded successfully.
+2024-09-19 09:01:03,009 - INFO - Datasets merged successfully.
+2024-09-19 09:01:05,868 - INFO - Checked missing values for Train Store
+2024-09-19 09:01:05,911 - INFO - Checked missing values for Test Store
+2024-09-19 09:01:09,275 - INFO - Handled missing values by filling NaNs with 0.
+2024-09-19 09:01:09,891 - INFO - Detected outliers in column Sales
+2024-09-19 09:01:09,934 - INFO - Capped outliers in Sales column.
+2024-09-19 09:01:48,889 - INFO - Found 0 stores that had NA competition distance and later had valid competition distance.
+2024-09-19 09:01:49,473 - INFO - Analyzed and plotted sales change due to competitor opening or reopening.
+2024-09-19 09:04:32,757 - INFO - Datasets loaded successfully.
+2024-09-19 09:04:35,056 - INFO - Datasets merged successfully.
+2024-09-19 09:04:37,267 - INFO - Checked missing values for Train Store
+2024-09-19 09:04:37,313 - INFO - Checked missing values for Test Store
+2024-09-19 09:04:40,698 - INFO - Handled missing values by filling NaNs with 0.
+2024-09-19 09:04:42,263 - INFO - Detected outliers in column Sales
+2024-09-19 09:04:42,294 - INFO - Capped outliers in Sales column.
+2024-09-19 09:05:00,709 - INFO - Found 0 stores that had NA competition distance and later had valid competition distance.
+2024-09-19 09:05:01,079 - INFO - Analyzed and plotted sales change due to competitor opening or reopening.
+2024-09-19 09:12:01,303 - INFO - Datasets loaded successfully.
+2024-09-19 09:12:03,216 - INFO - Datasets merged successfully.
+2024-09-19 09:12:05,293 - INFO - Checked missing values for Train Store
+2024-09-19 09:12:05,322 - INFO - Checked missing values for Test Store
+2024-09-19 09:12:08,630 - INFO - Handled missing values by filling NaNs with 0.
+2024-09-19 09:12:10,600 - INFO - Detected outliers in column Sales
+2024-09-19 09:12:10,634 - INFO - Capped outliers in Sales column.
+2024-09-19 09:12:21,598 - INFO - Found 0 stores that had NA competition distance and later had valid competition distance.
+2024-09-19 09:12:22,043 - INFO - Analyzed and plotted sales change due to competitor opening or reopening.
