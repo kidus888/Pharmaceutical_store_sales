@@ -1,0 +1,6 @@
+[core]
+    remote = gdrive_remote
+['remote "localstorage"']
+    url = /home/kali/Documents/Pharmaceutical_store_sales
+['remote "gdrive_remote"']
+    url = gdrive://1Muh8kGl3KSmHAJvSb2oPfGkinAetv4OG?dmr=1
