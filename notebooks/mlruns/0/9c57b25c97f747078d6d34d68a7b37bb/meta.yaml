@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kali/Desktop/Pharmaceutical_store_sales/notebooks/mlruns/0/9c57b25c97f747078d6d34d68a7b37bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c57b25c97f747078d6d34d68a7b37bb
+run_name: marvelous-skink-462
+run_uuid: 9c57b25c97f747078d6d34d68a7b37bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732090914752
+status: 1
+tags: []
+user_id: kali
